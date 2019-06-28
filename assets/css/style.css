@@ -1,0 +1,28 @@
+.jumbotron{
+    text-align: center;
+    opacity: .8;
+    background-image: url("../images/giphy.gif");
+    background-color: #cccccc;
+    height: 50%;
+}
+body{
+    text-align: center;
+    background-color: black
+}
+
+#gifDump{
+    float: left;
+
+}
+
+.one {
+    margin-left: 300px;
+    margin-right: 300px;
+   background-color: white;
+   
+}
+
+.two {
+    height: 25%;
+    width:50%;
+}
